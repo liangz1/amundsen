@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amundsendatabuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amundsenfrontendlibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amundsenmetadatalibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amundsensearchlibrary" vcs="Git" />
+  </component>
+</project>
